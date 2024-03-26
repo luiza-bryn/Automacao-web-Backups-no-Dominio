@@ -1,0 +1,6 @@
+tqdm==4.66.1
+Pillow==10.2.0
+selenium==4.4.0
+requests==2.31.0
+python-dotenv==1.0.0
+py7zr==0.20.8
